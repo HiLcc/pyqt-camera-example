@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+pyqt5 = "*"
+opencv-python = "*"
+
+[requires]
+python_version = "3.7"
