@@ -4,8 +4,8 @@ from PyQt5.QtWidgets import QMainWindow
 
 from Ui_mainwindow import Ui_MainWindow
 
-from lib.camera import Camera, CameraControler
-from lib.video import Video
+from plib.camera import Camera, CameraControler
+from plib.video import Video
 
 
 
